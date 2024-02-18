@@ -1,0 +1,194 @@
+    [
+        {
+            "cinemaName":"cinepolis:imperial square mall",
+            "address":"adajan",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d14880.548096273373!2d72.793409!3d21.186715!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDExJzEyLjIiTiA3MsKwNDcnMzYuMyJF!5e0!3m2!1sen!2sus!4v1708254742555!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cineverse cinema",
+            "address":"vesu",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3721.0995306425184!2d72.77208907525991!3d21.148436980530985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDA4JzU0LjQiTiA3MsKwNDYnMjguOCJF!5e0!3m2!1sen!2sin!4v1708254861148!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"apple cinema",
+            "address":"jahangirpura",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3718.634816053474!2d72.78997607526256!3d21.246324980458002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE0JzQ2LjgiTiA3MsKwNDcnMzMuMiJF!5e0!3m2!1sen!2sin!4v1708254902635!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cineverse cinema",
+            "address":"katargam",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3718.9990571648195!2d72.83357707526227!3d21.231885980468792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDEzJzU0LjgiTiA3MsKwNTAnMTAuMiJF!5e0!3m2!1sen!2sin!4v1708254947322!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cinezza multiplex",
+            "address":"jahangirabad",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3719.049037059586!2d72.77605107526219!3d21.229903980470237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDEzJzQ3LjciTiA3MsKwNDYnNDMuMSJF!5e0!3m2!1sen!2sin!4v1708255014974!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"INOX: D R World",
+            "address":"parvar patia",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3719.910703685587!2d72.85711307526121!3d21.19570598049579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDExJzQ0LjUiTiA3MsKwNTEnMzQuOSJF!5e0!3m2!1sen!2sin!4v1708255051219!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"rajhans cinemas",
+            "address":"vesu",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3721.358618812323!2d72.77216707525956!3d21.138121980538745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDA4JzE3LjIiTiA3MsKwNDYnMjkuMSJF!5e0!3m2!1sen!2sin!4v1708255088391!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"rajhans maultiplex",
+            "address":"adajan",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3720.2103810869944!2d72.78369907526091!3d21.1837999805046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDExJzAxLjciTiA3MsKwNDcnMTAuNiJF!5e0!3m2!1sen!2sin!4v1708255118333!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        }
+        {
+            "cinemaName":"The Friday Cinema",
+            "address":"Mota Varaccha",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3718.840867447706!2d72.87719707526243!3d21.238157980463978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE0JzE3LjQiTiA3MsKwNTInNDcuMiJF!5e0!3m2!1sen!2sin!4v1708255148578!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"rajhans cinema",
+            "address":"kamrej",
+            "city":"surat",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3717.934934423481!2d72.96221007526336!3d21.274042980437354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDE2JzI2LjYiTiA3MsKwNTcnNTMuMiJF!5e0!3m2!1sen!2sin!4v1708255169077!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"ajanta cinema cinex",
+            "address":"borivali(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3769.3588756878307!2d72.83060107520686!3d19.135761982081103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA4JzA4LjciTiA3MsKwNDknNTkuNCJF!5e0!3m2!1sen!2sin!4v1708255300040!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cinepolis:fun republic mall",
+            "address":"andheri(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3769.3588756878307!2d72.83060107520686!3d19.135761982081103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA4JzA4LjciTiA3MsKwNDknNTkuNCJF!5e0!3m2!1sen!2sin!4v1708255333068!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"G7 multiplex",
+            "address":"bandra(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3771.050936067041!2d72.83610407520499!3d19.061497982140068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDAzJzQxLjQiTiA3MsKwNTAnMTkuMiJF!5e0!3m2!1sen!2sin!4v1708255360654!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"gold cinema",
+            "address":"santacruz(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3770.4127831230962!2d72.83668707520566!3d19.08953898211781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA1JzIyLjMiTiA3MsKwNTAnMjEuMyJF!5e0!3m2!1sen!2sin!4v1708255390239!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"maxus cinemas",
+            "address":"borivali(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3767.1564787223147!2d72.82616407520929!3d19.232010982004937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDEzJzU1LjIiTiA3MsKwNDknNDMuNSJF!5e0!3m2!1sen!2sin!4v1708255418513!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"maxus cinemas",
+            "address":"saki naka",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3770.3257212835656!2d72.88119457520581!3d19.093361482114798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA1JzM2LjEiTiA3MsKwNTMnMDEuNiJF!5e0!3m2!1sen!2sin!4v1708255460227!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"MovieMax",
+            "address":"andheri(E)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3769.798881585717!2d72.85387707520636!3d19.11647698209644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA2JzU5LjMiTiA3MsKwNTEnMjMuMiJF!5e0!3m2!1sen!2sin!4v1708255485509!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"Mukta A2 Cinemas Suncity",
+            "address":"vile parle",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3770.0506915846404!2d72.84393107520606!3d19.105431982105184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA2JzE5LjYiTiA3MsKwNTAnNDcuNCJF!5e0!3m2!1sen!2sin!4v1708255520133!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cinepolis:fun republic mall",
+            "address":"andheri(W)",
+            "city":"mumbai",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3769.3588756878307!2d72.83060107520686!3d19.135761982081103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTnCsDA4JzA4LjciTiA3MsKwNDknNTkuNCJF!5e0!3m2!1sen!2sin!4v1708255333068!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"alka cinema",
+            "address":"sadashiv",
+            "city":"pune",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3783.3676498551745!2d73.84079307519146!3d18.512280982579682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDMwJzQ0LjIiTiA3M8KwNTAnMzYuMSJF!5e0!3m2!1sen!2sin!4v1708255640835!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"abhiruchi city pride",
+            "address":"sinhagad road",
+            "city":"pune",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3784.4546750775335!2d73.81426107519025!3d18.46305298261938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDI3JzQ3LjAiTiA3M8KwNDknMDAuNiJF!5e0!3m2!1sen!2sin!4v1708255666258!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"ashok theatre",
+            "address":"pimpri",
+            "city":"pune",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3781.0944076668875!2d73.80131607519398!3d18.61482298249706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTjCsDM2JzUzLjQiTiA3M8KwNDgnMTQuMCJF!5e0!3m2!1sen!2sin!4v1708255687545!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"batra reels cinemas",
+            "address":"new friends colony",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3504.27382810111!2d77.26607407549822!3d28.561538975703563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDMzJzQxLjUiTiA3N8KwMTYnMDcuMSJF!5e0!3m2!1sen!2sin!4v1708255761286!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cinepolis:cross river mall",
+            "address":"shahdara",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3501.0788051490167!2d77.29977207550172!3d28.65735897565123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM5JzI2LjUiTiA3N8KwMTgnMDguNSJF!5e0!3m2!1sen!2sin!4v1708255791142!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"cinepolis:V3S Mall",
+            "address":"laxmi nagar",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3501.747061595239!2d77.28325807550097!3d28.63734197566208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM4JzE0LjQiTiA3N8KwMTcnMDkuMCJF!5e0!3m2!1sen!2sin!4v1708255840081!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"INOX:Pacific mall",
+            "address":"jasola",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3505.085557245364!2d77.28047907549731!3d28.53714797571691!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDMyJzEzLjciTiA3N8KwMTYnNTkuMCJF!5e0!3m2!1sen!2sin!4v1708255879316!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"INOX",
+            "address":"patel nagar",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3501.311109190524!2d77.15512307550149!3d28.650401975654894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDM5JzAxLjUiTiA3N8KwMDknMjcuNyJF!5e0!3m2!1sen!2sin!4v1708255941506!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"MovieTime",
+            "address":"pitampura",
+            "city":"delhi",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3499.4590583275767!2d77.14025107550356!3d28.705823975624817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQyJzIxLjAiTiA3N8KwMDgnMzQuMiJF!5e0!3m2!1sen!2sin!4v1708255968391!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"2,Newfangled multiplex",
+            "address":"motera",
+            "city":"ahmedabad",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3669.856728817055!2d72.59192507531617!3d23.102339979118025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDA2JzA4LjQiTiA3MsKwMzUnNDAuMiJF!5e0!3m2!1sen!2sin!4v1708256043293!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"19 cinema",
+            "address":"south bopal",
+            "city":"ahmedabad",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3671.9882134717423!2d72.4698210753139!3d23.024204979172573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDAxJzI3LjEiTiA3MsKwMjgnMjAuNiJF!5e0!3m2!1sen!2sin!4v1708256087712!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"apple cinema",
+            "address":"bapunagar",
+            "city":"ahmedabad",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3671.5899689075004!2d72.62605697531428!3d23.0388226791624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDAyJzE5LjgiTiA3MsKwMzcnNDMuMSJF!5e0!3m2!1sen!2sin!4v1708256109610!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        },
+        {
+            "cinemaName":"apple multiplex",
+            "address":"gota",
+            "city":"ahmedabad",
+            "locationUrl":"<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3670.13378315446!2d72.54309807531581!3d23.092197979125057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjPCsDA1JzMxLjkiTiA3MsKwMzInNDQuNCJF!5e0!3m2!1sen!2sin!4v1708256129633!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+        }
+    ]
